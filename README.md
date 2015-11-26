@@ -28,11 +28,12 @@ All of the content for this course is released under the **Creative Commons Attr
 * Use and/or share this content with reasonable attribution to me and/or MCC's FabLab. 
 * Change the license of the content, regardless of how much you have adapted it.
 
+-----------------
 
 ![How to Build Almost Anything](Week 3 - laser cutting/images/Laser cut food (1).jpg?raw=true)
 
-![3D printed student projects](Week 4 - 3D printing and 3D scanning/3D printing night (2).jpg?raw=true)
+![3D printed student projects](Week 4 - 3D printing and 3D scanning/images/3D printing night (2).jpg?raw=true)
 
-![Introductory electronics](Week 6 - introductory electronics (1)/Introductory electronics (2).jpg?raw=true)
+![Introductory electronics](Week 6 - introductory electronics (1)/images/Introductory electronics (2).jpg?raw=true)
 
 ![Laser etched image](Sample final project student work/Sample student work (21).jpg?raw=true)
