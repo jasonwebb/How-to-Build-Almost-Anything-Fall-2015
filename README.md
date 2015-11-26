@@ -2,7 +2,7 @@
 Courseware and student content from "How to Build Almost Anything" course at Metropolitan Community College's FabLab in Omaha, NE.
 
 ### About the class ###
-"How to Build Almost Anything" is an 11-week (one "quarter" or "term) course offered through the FabLab at the Metropolitan Community College in Omaha, NE, USA. This particular class was taught on Wednesday evenings from 6PM to 9:40PM, and is therefore structured as an intensive lecture and project-based experience.
+"How to Build Almost Anything" is an 11-week (one "quarter" or "term) course offered through the [FabLab](http://fablab.mccinfo.net/) at the Metropolitan Community College in Omaha, NE, USA. This particular class was taught on Wednesday evenings from 6PM to 9:40PM, and is therefore structured as an intensive lecture and project-based experience.
 
 Although each session individually is intended to be relatively fast-paced and highly focused, it is not the intent of this class to train students to become deeply knowledegable "power users" in any of the topics discussed. Instead, this class is meant to introduce novices, often with zero exposure to digital fabrication technology, to the basics of a variety of topics with the goal that motivated students who become interested in any particular topic are equipped well enough with knowledge to be able to interface with experts and perform their own indepedant research with less frustration and confusion.
 
@@ -16,6 +16,8 @@ With this in mind, the content of this course is intended to be implemented in a
 ### License and usage
 All of the content for this course is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** license, which means you are free to use and remix the content so long as you provide reasonable attribution and do not pursue commercial for-profit ventures with the content.
 
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 **_DO_**
 * Use any part of this repository to develop or inform your own teaching practice
 * Share this content with your colleagues and students
@@ -26,4 +28,4 @@ All of the content for this course is released under the **Creative Commons Attr
 * Use and/or share this content with reasonable attribution to me and/or MCC's FabLab. 
 * Change the license of the content, regardless of how much you have adapted it.
 
-![How to Build Almost Anything](images/Week 3 - laser cutting/Laser cut food (1).jpg?raw=true)
+![How to Build Almost Anything](Week 3 - laser cutting/images/Laser cut food (1).jpg?raw=true)
