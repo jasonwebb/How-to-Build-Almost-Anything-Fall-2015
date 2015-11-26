@@ -10,13 +10,13 @@ Although each session individually is intended to be relatively fast-paced and h
 With this in mind, the content of this course is intended to be implemented in a heavily project-based, experiential and hands-on format with minimal use of traditional classroom lecturing and Powerpoint presentations. Because every topic in this course requires self-driven exploration and hands-on experience, it should be the goal of the facilitator of this content to keep the students active, engaged and curious through any means necessary.
 
 ----
-### Materials included
+#### Materials included
 * **Syllabus** containing a tentative schedule, along with lots of generic institution-specific information
 * **Instructor guides** organized by week, intended to be used by the instructor to keep the class sessions on track and to cover all the basics of each topic
 * **Handouts and support material** for relevant topics, located in various weeks' folders
 
 ----
-### License and usage
+#### License and usage
 All of the content for this course is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** license, which means you are free to use and remix the content so long as you provide reasonable attribution and do not pursue commercial for-profit ventures with the content.
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
