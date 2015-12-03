@@ -28,7 +28,7 @@ All of the content for this course is released under the **Creative Commons Attr
 
 **_DO NOT_**
 * Use this content to make money. Small workshops are OK, but publishing this content in a book (without permission) is not cool.
-* Use and/or share this content with reasonable attribution to me and/or MCC's FabLab. 
+* Use and/or share this content without reasonable attribution to myself and (if you're really nice) MCC's FabLab. 
 * Change the license of the content, regardless of how much you have adapted it.
 
 <br><br>
