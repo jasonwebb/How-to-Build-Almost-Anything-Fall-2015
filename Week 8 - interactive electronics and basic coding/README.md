@@ -1,1 +1,1 @@
-![Interactive electronics](images/Interactive electronics.jpg?raw=true)
+![Interactive electronics](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%208%20-%20interactive%20electronics%20and%20basic%20coding/images/Interactive%20electronics.jpg)

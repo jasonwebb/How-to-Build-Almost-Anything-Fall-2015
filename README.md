@@ -29,10 +29,10 @@ All of the content for this course is released under the **Creative Commons Attr
 * Change the license of the content, regardless of how much you have adapted it.
 
 <br><br>
-![How to Build Almost Anything](Week 3 - laser cutting/images/Laser cut food (1).jpg?raw=true)
+![How to Build Almost Anything](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%203%20-%20laser%20cutting/images/Laser%20cut%20food%20(1).jpg)
 
-![3D printed student projects](Week 4 - 3D printing and 3D scanning/images/3D printing night (2).jpg?raw=true)
+![3D printed student projects](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%204%20-%203D%20printing%20and%203D%20scanning/images/3D%20printing%20night%20(2).jpg)
 
-![Introductory electronics](Week 6 - introductory electronics (1)/images/Introductory electronics (2).jpg?raw=true)
+![Introductory electronics](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%206%20-%20introductory%20electronics%20(1)/images/Introductory%20electronics%20(2).jpg)
 
-![Laser etched image](Sample final project student work/Sample student work (21).jpg?raw=true)
+![Laser etched image](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Sample%20final%20project%20student%20work/Sample%20student%20work%20(21).jpg)

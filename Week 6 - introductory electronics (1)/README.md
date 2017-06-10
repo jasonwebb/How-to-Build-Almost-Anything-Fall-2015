@@ -1,2 +1,2 @@
-![Introductory electronics](images/Introductory electronics (1).jpg?raw=true)
-![Introductory electronics](images/Introductory electronics (2).jpg?raw=true)
+![Introductory electronics](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%206%20-%20introductory%20electronics%20(1)/images/Introductory%20electronics%20(1).jpg)
+![Introductory electronics](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%206%20-%20introductory%20electronics%20(1)/images/Introductory%20electronics%20(2).jpg)

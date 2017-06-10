@@ -1,3 +1,3 @@
-![Class in motion](images/3D printing night (1).jpg?raw=true)
+![Class in motion](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%204%20-%203D%20printing%20and%203D%20scanning/images/3D%20printing%20night%20(1).jpg)
 
-![Objects made by students](images/3D printing night (2).jpg?raw=true)
+![Objects made by students](https://raw.githubusercontent.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015/master/Week%204%20-%203D%20printing%20and%203D%20scanning/images/3D%20printing%20night%20(2).jpg)
